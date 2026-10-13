@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.part*
+*.crdownload
+*.torrent
+下载文件*/
+download*.log
+.DS_Store
