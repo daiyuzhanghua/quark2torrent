@@ -1,0 +1,2 @@
+websocket-client>=1.0.0
+torrentool>=1.0.0
